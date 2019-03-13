@@ -11,4 +11,5 @@ Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/JSDCC-Exerc
 Putra Irawan - putrairawan992@yahoo.com - https://github.com/putrairawan992/Exercise-1 <br/>
 Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reynaldo22/Javascript-Development-Course <br/>
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
+Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/Exercise1
 
