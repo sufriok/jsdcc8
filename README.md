@@ -1,4 +1,6 @@
 # latihanjsdcc
 javascript dev course fb
 This document already edited
-id github putrairawan992
+Putra Irawan
+putrairawan993@gmail.com
+id github https://github.com/putrairawan992/Exercise-1.git
