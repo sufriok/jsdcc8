@@ -1,4 +1,9 @@
 # Javascript Development Circle Course Batch 8
+Format: <br/>
+Name - Email - Github Repository Link <br/>
+<br/>
+For Exercise 1, please rename your repository with "Exercise1" <br/>
+<br/>
 
 Exercise 1 <br/>
 Danial Raza J - danialfc40@gmail.com - https://github.com/DanialRj/Exercice1 <br/>
