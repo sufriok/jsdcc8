@@ -1,6 +1,7 @@
-# latihanjsdcc
-javascript dev course fb
-This document already edited
-Putra Irawan
-putrairawan993@gmail.com
-id github https://github.com/putrairawan992/Exercise-1.git
+# Javascript Development Circle Course Batch 8
+
+Exercise 1
+Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/JSDCC-Exercise-1
+Putra Irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Exercise-1
+Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reynaldo22/Javascript-Development-Course
+Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1
