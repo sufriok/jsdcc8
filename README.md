@@ -19,3 +19,4 @@ Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibow
 Anik Indarti - anikindarti09@gmail.com - https://github.com/anikndrt/Exercise1 </br>
 Erni Nur Pratiwi - erninurpratiwi@gmail.com - https://github.com/erninurpratiwi/Exercise-1 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise1 <br/>
+Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/jsdcc8exercise1/blob/master/belajarku.html <br/>
