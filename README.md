@@ -15,4 +15,5 @@ Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercis
 Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/Exercise1 <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/exercise-1 <br/>
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise1 <br/>
+Erni Nur Pratiwi - erninurpratiwi@gmail.com - https://github.com/erninurpratiwi/Exercise-1 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise1 <br/>
