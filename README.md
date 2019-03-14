@@ -13,3 +13,4 @@ Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reyna
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
 Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/Exercise1 <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/exercise-1 <br/>
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise1 <br/>
