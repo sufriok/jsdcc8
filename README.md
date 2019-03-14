@@ -17,10 +17,10 @@ Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/jsdcc8exerci
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise1 <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/exercise-1 <br/>
 Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise1 <br/>
+Muhammad Nobel Shidqi - mnobelsh@gmail.com - https://github.com/mnobelsh/Exercise-1 <br/>
 Nurdiana Atmanagara - nurdiana.atmanagara@gmail.com - https://github.com/nurdiana/Exercise1 <br/>
 Putra Irawan - putrairawan992@yahoo.com - https://github.com/putrairawan992/Exercise-1 <br/>
 Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reynaldo22/Javascript-Development-Course <br/>
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
-Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
-
+Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/
