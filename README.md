@@ -12,3 +12,4 @@ Putra Irawan - putrairawan992@yahoo.com - https://github.com/putrairawan992/Exer
 Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reynaldo22/Javascript-Development-Course <br/>
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
 Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/Exercise1 <br/>
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise1 <br/>
